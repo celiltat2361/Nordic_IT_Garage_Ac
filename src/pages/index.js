@@ -16,6 +16,6 @@ const Home = () => {
       <HeroSection />
     </>
   )
-}
+};
 
 export default Home
